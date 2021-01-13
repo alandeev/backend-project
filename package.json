@@ -1,0 +1,21 @@
+{
+  "name": "backend-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/alandev2/backend-project.git",
+  "author": "alandev2 <alanworking1@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.9.2",
+    "jsonwebtoken": "^8.5.1",
+    "pg": "^8.5.1",
+    "sequelize": "^6.3.5",
+    "sequelize-cli": "^6.2.0"
+  }
+}

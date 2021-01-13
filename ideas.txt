@@ -1,0 +1,12 @@
+[ PROJECT IDEAS ] 
+
+
+**CADASTRO:
+TELAS:
+- { EMAIL, SENHA };
+- CONFIRMAÇÃO DO TELEFONE
+- { NOME_COMPLETO, NASCIMENTO, EMAIL, PASSWORD, PLANO DE SAUDE, Nº da Carteira, Adicionar Foto(carteira), Validade }
+
+AGENDAR EXAMES (CONECTADO):
+- { Seu plano de saúde, Centro, tipo de exame, selecione o exame, Médico de sua preferencia<lista> }
+- Selecionar hórario do agendamento
